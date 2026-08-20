@@ -1,2 +1,2 @@
-## Descrision
+## descripción
 Este ejercicio de revisión consiste en hacer una calculadora de edad utilizando C++ y Python. El programa pide el año de nacimiento del usuario y calcula su edad. La idea principal es repasar conceptos básicos de programación, como el uso de variables, la entrada de datos, las operaciones y la salida de información.
